@@ -1,27 +1,69 @@
 <h5>Related Navigation</h5>
-<ul>
+<ul id='nav'>
   <li>
-    Category
+    <a href='#'>
+      Category
+    </a>
     <ul>
-      <li>Sub-Category 1</li>
-      <li>Sub-Category 2</li>
-      <li>Sub-Category 3</li>
+      <li>
+        <a href='#'>
+          Sub-Category 1
+        </a>
+      </li>
+      <li>
+        <a href='#'>
+          Sub-Category 2
+        </a>
+      </li>
+      <li>
+        <a href='#'>
+          Sub-Category 3
+        </a>
+      </li>
     </ul>
   </li>
   <li>
-    Category 1
+    <a href='#'>
+      Related 1
+    </a>
     <ul>
-      <li>Sub-Category 1</li>
-      <li>Sub-Category 2</li>
-      <li>Sub-Category 3</li>
+      <li>
+        <a href='#'>
+          Sub-Category 1
+        </a>
+      </li>
+      <li>
+        <a href='#'>
+          Sub-Category 2
+        </a>
+      </li>
+      <li>
+        <a href='#'>
+          Sub-Category 3
+        </a>
+      </li>
     </ul>
   </li>
   <li>
-    Category 2
+    <a href='#'>
+      Related 2
+    </a>
     <ul>
-      <li>Sub-Category 1</li>
-      <li>Sub-Category 2</li>
-      <li>Sub-Category 3</li>
+      <li>
+        <a href='#'>
+          Sub-Category 1
+        </a>
+      </li>
+      <li>
+        <a href='#'>
+          Sub-Category 2
+        </a>
+      </li>
+      <li>
+        <a href='#'>
+          Sub-Category 3
+        </a>
+      </li>
     </ul>
   </li>
 </ul>

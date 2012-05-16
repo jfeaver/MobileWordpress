@@ -1,20 +1,41 @@
 %h5 Related Navigation
 %ul
   %li
-    Current Product Category
+    %a(href='#')
+      Category
     %ul
-      %li Sub-Category 1
-      %li Sub-Category 2
-      %li Sub-Category 3
+      %li
+        %a(href='#')
+          Sub-Category 1
+      %li
+        %a(href='#')
+          Sub-Category 2
+      %li
+        %a(href='#')
+          Sub-Category 3
   %li
-    Alternate Category 1
+    %a(href='#')
+      Related 1
     %ul
-      %li Sub-Category 1
-      %li Sub-Category 2
-      %li Sub-Category 3
+      %li
+        %a(href='#')
+          Sub-Category 1
+      %li
+        %a(href='#')
+          Sub-Category 2
+      %li
+        %a(href='#')
+          Sub-Category 3
   %li
-    Alternate Category 2
+    %a(href='#')
+      Related 2
     %ul
-      %li Sub-Category 1
-      %li Sub-Category 2
-      %li Sub-Category 3
+      %li
+        %a(href='#')
+          Sub-Category 1
+      %li
+        %a(href='#')
+          Sub-Category 2
+      %li
+        %a(href='#')
+          Sub-Category 3

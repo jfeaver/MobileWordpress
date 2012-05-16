@@ -14,18 +14,18 @@
 
 <?php get_header(); ?>
 
-<div class="row">
+<div class="row yui-skin-sam">
   
   <div class="eight columns push-two">
     <?php get_template_part( 'product', 'feature' ); ?>
     <?php get_template_part( 'product', 'details' ); ?>
   </div>
   
-  <div class="two columns push-two">
+  <div id="related_products" class="two columns push-two">
     <?php get_template_part( 'sidebar', 'related-products' ); ?>
   </div>
 
-  <div class="two columns pull-ten">
+  <div id="nav" class="two columns pull-ten">
     <?php get_template_part( 'sidebar', 'related-navigation' ); ?>
   </div>
 
