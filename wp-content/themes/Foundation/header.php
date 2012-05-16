@@ -15,7 +15,8 @@
   
 	<!-- Included CSS Files -->
 	<link rel="stylesheet" href="<?php bloginfo( 'stylesheet_url' ); ?>">
-	
+  <link rel="stylesheet" href="./wp-content/themes/Foundation/stylesheets/bwd.css">
+
 	<!-- IE Fix for HTML5 Tags -->
 	<!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -51,9 +52,6 @@
 				
 		</div>
 		<!-- Header Row -->
-		
-		<!-- Main Row -->
-		<div class="row">
 		
 		
 				

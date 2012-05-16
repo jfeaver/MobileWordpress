@@ -14,10 +14,21 @@
 
 <?php get_header(); ?>
 
-<?php get_template_part( 'product', 'feature' ); ?>
+<div class="row">
+  
+  <div class="eight columns push-two">
+    <?php get_template_part( 'product', 'feature' ); ?>
+    <?php get_template_part( 'product', 'details' ); ?>
+  </div>
+  
+  <div class="two columns push-two">
+    <?php get_template_part( 'sidebar', 'related-products' ); ?>
+  </div>
 
-<?php get_template_part( 'product', 'details' ); ?>
+  <div class="two columns pull-ten">
+    <?php get_template_part( 'sidebar', 'related-navigation' ); ?>
+  </div>
 
-<?php get_template_part( 'related', 'products' ); ?>
+</div>
 
-<?php get_template_part( 'related', 'navigation' ); ?>		
+<?php get_footer(); ?>    

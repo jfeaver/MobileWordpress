@@ -1,0 +1,15 @@
+body { padding-top: 25px; }
+
+#purchase {
+	height: 35px;
+	width: 100%;
+	position: relative;
+}
+#price { 
+	position: absolute;
+	top: 25%;
+	float: left; 
+}
+#purchase_button { float: right; margin-right: 30px; }
+
+/* .columns { background-color: #eee; } */
