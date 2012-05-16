@@ -31,8 +31,9 @@ body { padding-top: 25px; }
 
 @media only screen and (max-width: 767px) {
 	#related_products_list { width: 100%; }	
-	#related_products_list img { width: 50%; }
+	#related_products_list img {  }
 	#related_products_list li {
+		width: 50%;
 		margin-left: auto;
 		margin-right: auto;
 	}
