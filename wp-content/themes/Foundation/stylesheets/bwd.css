@@ -13,3 +13,17 @@ body { padding-top: 25px; }
 #purchase_button { float: right; margin-right: 30px; }
 
 /* .columns { background-color: #eee; } */
+
+
+#navigation ul ul {
+	font-size: 1.2rem;
+}
+#navigation ul {
+	margin: 0 0 8px 0;
+}
+#navigation li {
+	margin: 0;
+}
+#navigation ul ul {
+	margin-left: 8px;
+}
