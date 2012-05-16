@@ -25,7 +25,7 @@
     <?php get_template_part( 'sidebar', 'related-products' ); ?>
   </div>
 
-  <div id="nav" class="two columns pull-ten">
+  <div id="navigation" class="two columns pull-ten">
     <?php get_template_part( 'sidebar', 'related-navigation' ); ?>
   </div>
 

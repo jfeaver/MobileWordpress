@@ -26,7 +26,7 @@
 	
   <!-- YUI Tab View -->
   <!-- Sam Skin CSS for TabView -->
-  <!-- <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.9.0/build/tabview/assets/skins/sam/tabview.css"> -->
+  <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.9.0/build/tabview/assets/skins/sam/tabview.css">
    
   <!-- JavaScript Dependencies for Tabview: -->
   <script src="http://yui.yahooapis.com/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>

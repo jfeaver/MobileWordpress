@@ -1,4 +1,3 @@
-<div class="eight columns">
 
 <!-- Skip Nav -->
 <a id="content"></a>
@@ -31,4 +30,3 @@
 	<!--End the loop -->
 	<?php endif; ?>
 	
-</div>
